@@ -8,4 +8,4 @@ In part one of this assignment I created a tool that allows the members of the c
 
 In part 2 of this assignment I created another tool that allowed the members of the credit union to see the potential risks and growth of their stock holdings for three different retirement timeframes.  First looking at a $20,000, 30 year investment and then looking at a $60,000 5 & 10 year investment into the SPY and the bond market.  All three simulations used the same 60/40 distribution of stocks to bonds.  
 
-### All parts are in the ipynb file within the starter code folder. 
+### All parts are in the financial-planner.ipynb file within the starter code folder. 
